@@ -4,6 +4,7 @@
 
 #define GPIO_PIN 20
 
+// Code...
 int main()
 {
     FILE *sys, *dir, *val;
